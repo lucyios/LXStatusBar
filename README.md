@@ -56,7 +56,6 @@ __[温馨提示]__
 #### last
 
 * 如果在使用过程中,有什么问题,welcome issue.
-* 欢迎访问的[我的博客](www.liluxin.com).
 
 
 	
